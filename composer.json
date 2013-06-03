@@ -1,0 +1,20 @@
+{
+    "name": "cubic-mushroom/wp-company-email-footer",
+    "description": "WordPress plugin to add company information to the footer of all site emails",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toby Griffiths",
+            "email": "toby@cubicmushroom.co.uk"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.21"
+    },
+    "autoload": {
+        "psr-0": { "CubicMushroom\\": "src/" }
+    }
+}
